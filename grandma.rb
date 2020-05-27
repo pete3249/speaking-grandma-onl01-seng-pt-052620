@@ -14,7 +14,7 @@
 
 def speak_to_grandma(string)
   if string == string.upcase
-    p "NO, NOT SINCE 1938"
+    p "NO, NOT SINCE 1938!"
   elsif string == "I LOVE YOU GRANDMA!"
     p "I LOVE YOU TO PUMPKIN!"
   else
